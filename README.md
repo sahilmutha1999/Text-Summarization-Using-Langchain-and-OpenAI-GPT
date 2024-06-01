@@ -24,13 +24,13 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/text-summarization-langchain-gpt.git
+   git clone https://github.com/sahilmutha1999/text-summarization-using-Langchain-and_OpenAI-GPT.git
    cd text-summarization-langchain-gpt
    
 2. **Create a virtual environment and activate it:**
    ```sh
    python3 -m venv venv
-   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+   # On Windows use `venv\Scripts\activate`
 
 3. **Install the dependencies:**
    ```sh
